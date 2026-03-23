@@ -924,5 +924,15 @@
          "Wrike",
          "PPM Express"
       ]
+   },
+   {
+      "name": "One.com",
+      "url": "https://one.com",
+      "description": "Hjemmeside-hosting",
+      "alternatives": [
+         "Simply.com",
+         "1&1",
+         "GoDaddy"
+      ]
    }
 ]
