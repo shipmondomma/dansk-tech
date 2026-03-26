@@ -943,5 +943,17 @@
          "Winkas",
          "Conventus"
       ]
+   },
+   {
+      "name": "deltaplan.dk",
+      "url": "https://deltaplan.dk",
+      "description": "Vagtplan, Tidsregistrering, HR, Kommunikation, Udtræk til løn mm.",
+      "alternatives": [
+          "planday.com",
+          "WhenIWork.com",
+          "papershift.com",
+          "Humanity.com"
+      ],
+      "image": "images/deltaplan.png"
    }
 ]
