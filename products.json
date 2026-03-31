@@ -957,5 +957,15 @@
           "Humanity.com"
       ],
       "image": "images/deltaplan.png"
+   },
+   {
+      "name": "redactpdf.io",
+      "url": "https://redactpdf.io",
+      "description": "Anonymisering af PDF, Office-dokumenter og e-mails.",
+      "alternatives": [
+          "Adobe Acrobat"
+          "redactable.com",
+          "PDF24.org"
+      ],
    }
 ]
