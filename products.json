@@ -46,7 +46,7 @@
         "Mutinex",
         "MASS Analytics"
       ]
-   }, 
+   },
    {
       "name": "Arrigoo CDP",
       "url": "https://arrigoo.io",
@@ -123,11 +123,11 @@
       ]
    },
    {
-  "name": "Neuphlo",
-  "url": "https://neuphlo.com",
-  "description": "Projektstyring med indbygget testmanagement,vidensdeling og chatkanaler. Neuphlo kan tilgås via mcp server og har integration til GitHub, GitLab, Addo Sign",
-  "alternatives": ["Jira og Xray", "Linear", "ALM"]
-},
+      "name": "Neuphlo",
+      "url": "https://neuphlo.com",
+      "description": "Projektstyring med indbygget testmanagement,vidensdeling og chatkanaler. Neuphlo kan tilgås via mcp server og har integration til GitHub, GitLab, Addo Sign",
+      "alternatives": ["Jira og Xray", "Linear", "ALM"]
+   },
    {
       "name": "Clerk.io",
       "url": "https://clerk.io",
@@ -510,7 +510,7 @@
          "Magento",
          "WooCommerce"
       ]
-   }, 
+   },
    {
       "name": "Timelog.com",
       "url": "https://timelog.com",
@@ -665,39 +665,41 @@
       ]
    },
    {
-  "name": "Klubmodul",
-  "url": "https://klubmodul.dk/",
-  "description": "Medlems- og klubadministration til foreninger med kontingentopkrævning, hold/aktiviteter, tilmelding, kommunikation og klubwebsite samlet i én løsning.",
-  "alternatives": [
-    "TeamSnap",
-    "WildApricot",
-    "ClubExpress",
-    "MemberPlanet",
-    "SportEasy"
-  ]
-},
-{
-  "name": "Effihub",
-  "url": "https://effihub.com/",
-  "description": "PSA til bureauer og konsulenthuse med tidsregistrering, projekt- og ressourceplanlægning, klippekort/retainers, fakturering og rapportering på tværs af kunder og opgaver.",
-  "alternatives": [
-    "Kantata",
-    "Scoro",
-    "Accelo",
-    "Productive",
-    "Wrike"
-  ]
-},{
-    "name": "Keen",
-    "url": "https://www.keenpartner.com",
-    "description": "PRM Software til styring og skalering af lead-genererende B2B partnerskaber.",
-    "alternatives": [
-      "PartnerStack",
-      "impact.com",
-      "SalesForce PRM",
-      "Impartner PRM"
-    ]
-  },{
+      "name": "Klubmodul",
+      "url": "https://klubmodul.dk/",
+      "description": "Medlems- og klubadministration til foreninger med kontingentopkrævning, hold/aktiviteter, tilmelding, kommunikation og klubwebsite samlet i én løsning.",
+      "alternatives": [
+         "TeamSnap",
+         "WildApricot",
+         "ClubExpress",
+         "MemberPlanet",
+         "SportEasy"
+      ]
+   },
+   {
+      "name": "Effihub",
+      "url": "https://effihub.com/",
+      "description": "PSA til bureauer og konsulenthuse med tidsregistrering, projekt- og ressourceplanlægning, klippekort/retainers, fakturering og rapportering på tværs af kunder og opgaver.",
+      "alternatives": [
+         "Kantata",
+         "Scoro",
+         "Accelo",
+         "Productive",
+         "Wrike"
+      ]
+   },
+   {
+      "name": "Keen",
+      "url": "https://www.keenpartner.com",
+      "description": "PRM Software til styring og skalering af lead-genererende B2B partnerskaber.",
+      "alternatives": [
+         "PartnerStack",
+         "impact.com",
+         "SalesForce PRM",
+         "Impartner PRM"
+      ]
+   },
+   {
       "name": "elmah.io",
       "url": "https://elmah.io",
       "description": "elmah.io er en dansk cloud-løsning, der automatisk overvåger .NET-applikationer for fejl og logger dem centralt, så udviklere hurtigt kan finde og løse problemer.",
@@ -717,7 +719,8 @@
          "PromptBase",
          "Cacher"
       ]
-   },{
+   },
+   {
       "name": "LønRadar",
       "url": "https://loenradar.dk",
       "description": "Løn-benchmarking platform og lønberegner",
@@ -727,23 +730,25 @@
          "PayScale",
          "Salary.com"
       ],
-       "image": "images/loenradar.png"
-   },{
-      "name":"Heysender",
-      "url":"https://www.heysender.com",
-      "description":"Email API og SMTP-løsning. Tag kontrol over dine transaktionelle emails.",
-      "alternatives":[
+      "image": "images/loenradar.png"
+   },
+   {
+      "name": "Heysender",
+      "url": "https://www.heysender.com",
+      "description": "Email API og SMTP-løsning. Tag kontrol over dine transaktionelle emails.",
+      "alternatives": [
          "Mailgun",
          "Postmark",
          "MailerSend",
          "Twilio SendGrid"
       ],
       "image": "images/heysender.png"
-   },{
-      "name":"Heyloyalty",
-      "url":"https://www.heyloyalty.com",
-      "description":"Marketing automation platform. Heyloyalty fokuserer på kundeloyalitet. Saml dine data og personalisér kommunikationen og få gæster og kunder, der kommer tilbage",
-      "alternatives":[
+   },
+   {
+      "name": "Heyloyalty",
+      "url": "https://www.heyloyalty.com",
+      "description": "Marketing automation platform. Heyloyalty fokuserer på kundeloyalitet. Saml dine data og personalisér kommunikationen og få gæster og kunder, der kommer tilbage",
+      "alternatives": [
          "Klaviyo",
          "Mailchimp",
          "Customer.io",
@@ -751,7 +756,8 @@
          "Sleeknote"
       ],
       "image": "images/heyloyalty.png"
-  },{
+   },
+   {
       "name": "Connie",
       "url": "https://www.getconnie.com",
       "description": "Dokumentværktøj til kreative. Opret, send og underskriv dokumenter nemt, og sørg for, at dine produktioner og projekter kører gnidningsfrit.",
@@ -761,28 +767,30 @@
          "PandaDoc"
       ],
       "image": "images/connie.png"
-  }
-  ,{
-      "name":"Returnflows",
-      "url":"https://www.returnflows.com",
-      "description":"Return management platform for e-commerce. Returnflows hjælper med at gøre returnering nemmere og mere effektivt.",
-      "alternatives":[
+   },
+   {
+      "name": "Returnflows",
+      "url": "https://www.returnflows.com",
+      "description": "Return management platform for e-commerce. Returnflows hjælper med at gøre returnering nemmere og mere effektivt.",
+      "alternatives": [
          "Returnless",
          "Loop Returns",
          "Returngo",
          "Frate Returns"
       ],
       "image": "images/returnflows.png"
-  },{
-      "name":"Pcrypt",
-      "url":"https://pcrypt.com/",
-      "description":"Pcrypt er en sikker password manager med fokus på privatliv og kryptering. Alle adgangskoder krypteres lokalt på brugerens enhed, før data sendes eller gemmes, så følsomme oplysninger aldrig deles i klartekst. Pcrypt understøtter deling af adgangskoder mellem brugere og teams uden at afsløre selve adgangskoden. Løsningen kan anvendes som cloud-tjeneste eller installeres on-prem, og kernekomponenterne er open source.",
-      "alternatives":[
+   },
+   {
+      "name": "Pcrypt",
+      "url": "https://pcrypt.com/",
+      "description": "Pcrypt er en sikker password manager med fokus på privatliv og kryptering. Alle adgangskoder krypteres lokalt på brugerens enhed, før data sendes eller gemmes, så følsomme oplysninger aldrig deles i klartekst. Pcrypt understøtter deling af adgangskoder mellem brugere og teams uden at afsløre selve adgangskoden. Løsningen kan anvendes som cloud-tjeneste eller installeres on-prem, og kernekomponenterne er open source.",
+      "alternatives": [
          "LastPass",
          "1Password",
          "Bitwarden"
       ]
-  },{
+   },
+   {
       "name": "Yulsn Marketing Cloud",
       "url": "https://yulsn.com",
       "description": "Yulsn Marketing Cloud er til email marketing, marketing automation og loyalitetsprogrammer. Især til virksomheder, der sender rigtig mange mails, har høje krav om tilpasning til egne processer, og gerne vil automatisere meget.",
@@ -790,7 +798,7 @@
          "Marketo",
          "Bloomreach",
          "Hubspot",
-	     "Salesforce",
+         "Salesforce",
          "Klaviyo",
          "ActiveCampaign",
          "ConvertKit",
@@ -798,7 +806,8 @@
          "Campaign Monitor",
          "Mailchimp"
       ]
-   },{
+   },
+   {
       "name": "Kontolink",
       "url": "https://kontolink.com",
       "description": "Kontolink er en dansk platform der via adgang til bankdata (PSD2) og diverse bilagskilder (som f.eks. email) automatiserer bogføringen for små og mellemstore virksomheder.",
@@ -808,11 +817,12 @@
          "Finally.com",
          "Expensify"
       ]
-   },{
-   "name": "Avallone",
-   "url": "https://avallone.com",
-   "description": "Automatisere KYC-compliance",
-   "alternatives": [
+   },
+   {
+      "name": "Avallone",
+      "url": "https://avallone.com",
+      "description": "Automatisere KYC-compliance",
+      "alternatives": [
          "Spektr",
          "Swift",
          "Encompass",
@@ -831,16 +841,16 @@
       ]
    },
    {
-     "name": "CVR Intel",
-     "url": "https://cvrintel.dk",
-     "description": "Virksomhedsdata, AI og leads samlet ét sted",
-     "alternatives": ["Bisnode/Dun & Bradstreet"]
+      "name": "CVR Intel",
+      "url": "https://cvrintel.dk",
+      "description": "Virksomhedsdata, AI og leads samlet ét sted",
+      "alternatives": ["Bisnode/Dun & Bradstreet"]
    },
    {
-     "name": "Zylinc.com",
-     "url": "https://zylinc.com",
-     "description": "Omstillings- og kontaktcenterløsning",
-     "alternatives": [
+      "name": "Zylinc.com",
+      "url": "https://zylinc.com",
+      "description": "Omstillings- og kontaktcenterløsning",
+      "alternatives": [
          "Puzzel",
          "Genesis",
          "Cisco"
@@ -852,8 +862,8 @@
       "image": "images/dixa.png",
       "description": "Agentic AI-platform til moderne kundeservice",
       "alternatives": [
-         "Zendesk", 
-         "Intercom", 
+         "Zendesk",
+         "Intercom",
          "Freshdesk",
          "Salesforce Service Cloud",
          "HubSpot Service Hub"
@@ -884,7 +894,7 @@
          "Wix"
       ]
    },
-	{
+   {
       "name": "Plapre",
       "url": "https://github.com/syv-ai/plapre",
       "description": "Open source dansk tekst-til-tale med stemmekloning. Genererer 24kHz lyd fra dansk tekst og kan køres lokalt og on-prem — ingen data forlader din infrastruktur.",
@@ -911,21 +921,21 @@
       "alternatives": ["Bisnode/Dun & Bradstreet", "ZoomInfo", "Clearbit", "Lusha", "Apollo.io", "UpLead", "Lead411", "Snov.io", "Hunter.io", "Adapt.io", "LeadIQ", "DiscoverOrg", "InsideView", "LeadGenius", "LeadFuze", "LeadSift", "Leadspace", "LimeLeads"]
    },
    {
-    "name": "Meili Robots",
-    "url": "https://meilirobots.com/",
-    "description": "Universelt flådestyringssystem til mobile robotter, orkestrer dine robotter på én platform uanset type, mærke eller model. Bruges på tværs af forskellige industrisegmenter.",
-    "alternatives": [
-      "InOrbit", "Synaos", "Naise", "Formant", "Open-RMF", "Siemens SiMove", "MHP"
-    ]
-  },
-  {
-    "name": "freelio.dk",
-    "url": "https://freelio.dk",
-    "description": "Dansk alternativ til LinkedIn. Karriereværktøj. Rekrutteringsværktøj. Brandingværktøj. Meet-ups & Events.",
-    "alternatives": [
-      "LinkedIn"
-    ]
-  },
+      "name": "Meili Robots",
+      "url": "https://meilirobots.com/",
+      "description": "Universelt flådestyringssystem til mobile robotter, orkestrer dine robotter på én platform uanset type, mærke eller model. Bruges på tværs af forskellige industrisegmenter.",
+      "alternatives": [
+         "InOrbit", "Synaos", "Naise", "Formant", "Open-RMF", "Siemens SiMove", "MHP"
+      ]
+   },
+   {
+      "name": "freelio.dk",
+      "url": "https://freelio.dk",
+      "description": "Dansk alternativ til LinkedIn. Karriereværktøj. Rekrutteringsværktøj. Brandingværktøj. Meet-ups & Events.",
+      "alternatives": [
+         "LinkedIn"
+      ]
+   },
    {
       "name": "ProjectFlow",
       "url": "https://fortesprojectflow.dk",
@@ -963,10 +973,10 @@
       "url": "https://deltaplan.dk",
       "description": "Vagtplan, Tidsregistrering, HR, Kommunikation, Udtræk til løn mm.",
       "alternatives": [
-          "planday.com",
-          "WhenIWork.com",
-          "papershift.com",
-          "Humanity.com"
+         "planday.com",
+         "WhenIWork.com",
+         "papershift.com",
+         "Humanity.com"
       ],
       "image": "images/deltaplan.png"
    },
@@ -975,9 +985,9 @@
       "url": "https://redactpdf.io",
       "description": "Anonymisering af PDF, Office-dokumenter og e-mails.",
       "alternatives": [
-          "Adobe Acrobat",
-          "redactable.com",
-          "PDF24.org"
-      ],
+         "Adobe Acrobat",
+         "redactable.com",
+         "PDF24.org"
+      ]
    }
 ]
