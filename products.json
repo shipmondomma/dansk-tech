@@ -975,7 +975,7 @@
       "url": "https://redactpdf.io",
       "description": "Anonymisering af PDF, Office-dokumenter og e-mails.",
       "alternatives": [
-          "Adobe Acrobat"
+          "Adobe Acrobat",
           "redactable.com",
           "PDF24.org"
       ],
