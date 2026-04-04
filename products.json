@@ -998,6 +998,17 @@
          "Rescindly",
          "Trusted Shops",
          "Shopware Withdrawal Plugin"
+     ]
+   },
+   {
+      "name": "companydata.dk",
+      "url": "https://companydata.dk",
+      "description": "Dansk virksomhedsdata med REST API, finansiel sundhedsscore (CDS), 13 års regnskabshistorik, ejendomsdata og realtidsovervågning af danske selskaber.",
+      "alternatives": [
+         "Creditsafe",
+         "Dun & Bradstreet",
+         "ZoomInfo",
+         "OpenCorporates"
       ]
    }
 ]
