@@ -1018,17 +1018,5 @@
       "alternatives": [
          "Shopify B2B, Commercetools, Sana Commerce"
       ]
-   },
-   {
-      "name": "Uniqkey",
-      "url": "https://www.uniqkey.eu/",
-      "description": "Adgangskode- og adgangsstyring for virksomheder",
-      "alternatives": [
-         "1password",
-         "Bitwarden",
-         "Dashlane",
-         "LastPass",
-         "Keeper"
-      ]
    }
 ]
